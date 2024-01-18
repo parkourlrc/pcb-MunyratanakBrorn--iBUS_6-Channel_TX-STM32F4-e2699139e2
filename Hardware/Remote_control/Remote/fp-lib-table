@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Footprint")(type "KiCad")(uri "D:/AI_FARM/PCB/Remote_control/Library/Footprint")(options "")(descr ""))
+  (lib (name "LOGO.pretty (2)")(type "KiCad")(uri "D:/AI_FARM/PCB/Library/LOGO.pretty (2)/LOGO.pretty")(options "")(descr ""))
+)

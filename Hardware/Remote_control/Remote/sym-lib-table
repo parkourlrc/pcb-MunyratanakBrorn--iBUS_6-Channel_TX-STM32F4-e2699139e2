@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MySymbol")(type "KiCad")(uri "D:/AI_FARM/PCB/Remote_control/Library/Symbol/MySymbol.kicad_sym")(options "")(descr ""))
+)
